@@ -14,6 +14,10 @@ module.exports = ({ env }) => ({
       },
     },
    },
+   'push-notifications':{
+    enabled: true , 
+    resolve: './src/plugins/push-notifications'
+    }, 
    // ...
   // ...
   "users-permissions": {

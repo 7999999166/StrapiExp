@@ -1,5 +1,5 @@
-// import type { Core } from '@strapi/strapi';
 
+import { Core } from '@strapi/strapi';
 export default {
   /**
    * An asynchronous register function that runs before
